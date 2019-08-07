@@ -1,0 +1,325 @@
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\roslyn\csc.exe
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\roslyn\vbc.exe
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\roslyn\VBCSCompiler.exe
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\WebApplication.dll.config
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\WebApplication.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\WebApplication.pdb
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Antlr3.Runtime.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\EntityFramework.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\EntityFramework.SqlServer.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.Owin.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.Owin.Security.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Newtonsoft.Json.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Owin.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\System.Web.Helpers.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\System.Web.Mvc.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\System.Web.Optimization.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\System.Web.Razor.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\System.Web.WebPages.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\System.Web.WebPages.Razor.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\WebGrease.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\System.Web.Helpers.xml
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\System.Web.Mvc.xml
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\System.Web.Optimization.xml
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\System.Web.Razor.xml
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\System.Web.WebPages.xml
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\System.Web.WebPages.Razor.xml
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Antlr3.Runtime.pdb
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Newtonsoft.Json.xml
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\EntityFramework.xml
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\EntityFramework.SqlServer.xml
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.Owin.xml
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.Owin.Security.xml
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\obj\Debug\WebApplicationDrHelp.csprojAssemblyReference.cache
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\obj\Debug\WebApplicationDrHelp.csproj.CoreCompileInputs.cache
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\obj\Debug\WebApplicationDrHelp.csproj.CopyComplete
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\obj\Debug\WebApplication.dll
+C:\Lenguaje C\C#\Layouts\ASP.NET MVC Application with a Custom Layout\C#\WebApplication\obj\Debug\WebApplication.pdb
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\roslyn\csc.exe
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\roslyn\System.Collections.Immutable.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\roslyn\System.Reflection.Metadata.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\roslyn\vbc.exe
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\roslyn\VBCSCompiler.exe
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\roslyn\VBCSCompiler.exe.config
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\WebApplication.dll.config
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\WebApplication.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\WebApplication.pdb
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Antlr3.Runtime.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\CapaCore.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\CapaInfracstructure.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\CapaService.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\DataTables.AspNet.Core.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\DataTables.AspNet.Mvc5.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\EntityFramework.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\EntityFramework.SqlServer.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.Google.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Web.Infrastructure.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Newtonsoft.Json.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Owin.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\RazorGenerator.Mvc.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.Helpers.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.Mvc.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.Optimization.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.Razor.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.WebPages.Deployment.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.WebPages.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.WebPages.Razor.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\WebActivatorEx.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\WebGrease.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\CapaCore.pdb
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\CapaInfracstructure.pdb
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\CapaInfracstructure.dll.config
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\CapaService.pdb
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\CapaService.dll.config
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Newtonsoft.Json.xml
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.Helpers.xml
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.Mvc.xml
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.Optimization.xml
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.Razor.xml
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.WebPages.xml
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.WebPages.Deployment.xml
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.WebPages.Razor.xml
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Antlr3.Runtime.pdb
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\EntityFramework.xml
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\EntityFramework.SqlServer.xml
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.xml
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.xml
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.Google.xml
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\es\System.Web.Optimization.resources.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\obj\Debug\WebApplicationDrHelp.csprojAssemblyReference.cache
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\obj\Debug\WebApplicationDrHelp.csproj.CoreCompileInputs.cache
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\obj\Debug\WebApplicationDrHelp.csproj.CopyComplete
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\obj\Debug\WebApplication.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\obj\Debug\WebApplication.pdb
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Mvc.JQuery.DataTables.Common.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\Mvc.JQuery.DataTables.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Linq.Dynamic.Core.dll
+C:\DrHelp\Codigo\Plataforma\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Linq.Dynamic.Core.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\roslyn\csc.exe
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\roslyn\System.Collections.Immutable.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\roslyn\System.Reflection.Metadata.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\roslyn\vbc.exe
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\roslyn\VBCSCompiler.exe
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\roslyn\VBCSCompiler.exe.config
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\WebApplication.dll.config
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\WebApplication.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\WebApplication.pdb
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Antlr3.Runtime.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\CapaCore.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\CapaInfracstructure.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\CapaService.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\DataTables.AspNet.Core.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\DataTables.AspNet.Mvc5.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\EntityFramework.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\EntityFramework.SqlServer.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.Google.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Web.Infrastructure.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Mvc.JQuery.DataTables.Common.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Mvc.JQuery.DataTables.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Newtonsoft.Json.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Owin.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\RazorGenerator.Mvc.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Linq.Dynamic.Core.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.Helpers.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.Mvc.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.Optimization.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.Razor.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.WebPages.Deployment.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.WebPages.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.WebPages.Razor.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\WebActivatorEx.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\WebGrease.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\CapaCore.pdb
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\CapaInfracstructure.pdb
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\CapaInfracstructure.dll.config
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\CapaService.pdb
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\CapaService.dll.config
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Newtonsoft.Json.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Linq.Dynamic.Core.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.Helpers.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.Mvc.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.Optimization.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.Razor.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.WebPages.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.WebPages.Deployment.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\System.Web.WebPages.Razor.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Antlr3.Runtime.pdb
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\EntityFramework.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\EntityFramework.SqlServer.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.Google.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\bin\es\System.Web.Optimization.resources.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\obj\Debug\WebApplicationDrHelp.csprojAssemblyReference.cache
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\obj\Debug\WebApplicationDrHelp.csproj.CoreCompileInputs.cache
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\obj\Debug\WebApplicationDrHelp.csproj.CopyComplete
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\obj\Debug\WebApplication.dll
+C:\DrHelp\Codigo\Plataforma\Backup\WebApplicationDrHelp\WebApplicationDrHelp\obj\Debug\WebApplication.pdb
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\obj\Debug\WebApplicationDrHelp.csprojAssemblyReference.cache
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\obj\Debug\WebApplicationDrHelp.csproj.CoreCompileInputs.cache
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\obj\Debug\WebApplication.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\obj\Debug\WebApplication.pdb
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\roslyn\csc.exe
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\roslyn\System.Collections.Immutable.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\roslyn\System.Reflection.Metadata.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\roslyn\vbc.exe
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\roslyn\VBCSCompiler.exe
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\roslyn\VBCSCompiler.exe.config
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\WebApplication.dll.config
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\WebApplication.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\WebApplication.pdb
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Antlr3.Runtime.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\DataTables.AspNet.Core.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\DataTables.AspNet.Mvc5.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\EntityFramework.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\EntityFramework.SqlServer.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.Owin.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.Owin.Security.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.Owin.Security.Google.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.Web.Infrastructure.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Mvc.JQuery.DataTables.Common.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Mvc.JQuery.DataTables.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Newtonsoft.Json.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Owin.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\System.Linq.Dynamic.Core.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\System.Web.Helpers.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\System.Web.Mvc.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\System.Web.Optimization.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\System.Web.Razor.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\System.Web.WebPages.Deployment.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\System.Web.WebPages.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\System.Web.WebPages.Razor.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\WebGrease.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Newtonsoft.Json.xml
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\System.Linq.Dynamic.Core.xml
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\System.Web.Helpers.xml
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\System.Web.Mvc.xml
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\System.Web.Optimization.xml
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\System.Web.Razor.xml
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\System.Web.WebPages.xml
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\System.Web.WebPages.Deployment.xml
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\System.Web.WebPages.Razor.xml
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Antlr3.Runtime.pdb
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\EntityFramework.xml
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\EntityFramework.SqlServer.xml
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.Owin.xml
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.Owin.Security.xml
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.Owin.Security.Google.xml
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\bin\es\System.Web.Optimization.resources.dll
+C:\globo.net\Codigo .net\Prueba tecnica\WebApplicationDrHelp\obj\Debug\WebApplicationDrHelp.csproj.CopyComplete

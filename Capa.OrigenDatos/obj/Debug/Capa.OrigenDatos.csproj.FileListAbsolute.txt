@@ -1,0 +1,12 @@
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.OrigenDatos\bin\Debug\Capa.OrigenDatos.dll.config
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.OrigenDatos\bin\Debug\Capa.OrigenDatos.dll
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.OrigenDatos\bin\Debug\Capa.OrigenDatos.pdb
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.OrigenDatos\bin\Debug\EntityFramework.dll
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.OrigenDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.OrigenDatos\bin\Debug\EntityFramework.xml
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.OrigenDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.OrigenDatos\obj\Debug\Capa.OrigenDatos.csproj.CoreCompileInputs.cache
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.OrigenDatos\obj\Debug\Capa.OrigenDatos.csproj.CopyComplete
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.OrigenDatos\obj\Debug\Capa.OrigenDatos.dll
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.OrigenDatos\obj\Debug\Capa.OrigenDatos.pdb
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.OrigenDatos\obj\Debug\Capa.OrigenDatos.csprojAssemblyReference.cache

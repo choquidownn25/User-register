@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="RAEGlobonetModelStoreContainer" CdmEntityContainer="RAEGlobonetEntities">
+    <EntitySetMapping Name="ContenidoEntradas">
+      <EntityTypeMapping TypeName="RAEGlobonetModel.ContenidoEntradas">
+        <MappingFragment StoreEntitySet="ContenidoEntradas">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="IdEntrada" ColumnName="IdEntrada" />
+          <ScalarProperty Name="Contenido" ColumnName="Contenido" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Entrada">
+      <EntityTypeMapping TypeName="RAEGlobonetModel.Entrada">
+        <MappingFragment StoreEntitySet="Entrada">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Titulo" ColumnName="Titulo" />
+          <ScalarProperty Name="Autor" ColumnName="Autor" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

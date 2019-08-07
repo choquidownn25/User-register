@@ -1,0 +1,162 @@
+﻿@using Capa.Presentacion.Extensions
+@{
+    ViewBag.Title = "Prueba técnica";
+}
+
+
+
+<div class="row">
+    <div class="col-xs-12">
+
+        <div class="box">
+            <div class="box-header">
+                <h3 class="box-title">Control de entrada</h3>
+                <div class="box-footer">
+
+                    <select class="form-control" onchange="GetEntradas();" data-rel="chosen" id="cmb_Entrada" name="cmb_Entrada">
+                        <option></option>
+                        <option>Seleccione ...</option>
+
+                    </select>
+                    <button type="submit" class="btn btn-primary" onclick="location.href='@Url.Action("EntradaDetail", "Entrada")'">Actualizar</button>
+                    <button type="submit" class="btn btn-primary" onclick="location.href='@Url.Action("EntradaDetail", "Entrada")'">Exportar</button>
+                    <button type="submit" class="btn btn-primary" onclick="location.href='@Url.Action("EntradaDetail", "Entrada")'">Archivo</button>
+                </div>
+            </div>
+            <div class="box-body">
+                <table id="entradas" class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>Codigo</th>
+                            <th>Titulo</th>
+                            <th>Autor</th>
+                            <th>Acciones</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                    <tfoot>
+
+
+                    </tfoot>
+                </table>
+            </div>
+        </div>
+
+        <div class="nav-tabs-custom">
+            <ul class="nav nav-tabs pull-right">
+                <li class="active"><a href="#revenue-chart" data-toggle="tab">Lineal</a></li>
+                <li><a href="#sales-chart" data-toggle="tab">Torta</a></li>
+                <li class="pull-left header"><i class="fa fa-inbox"></i> Grafico</li>
+            </ul>
+            <div class="tab-content no-padding">
+                <div class="chart tab-pane active" id="revenue-chart" style="position: relative; height: 300px;"></div>
+                <div class="chart tab-pane" id="sales-chart" style="position: relative; height: 300px;"></div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+@section Scripts {
+
+    @Scripts.Render("~/AdminLTE/plugins/datatables/js")
+    @Scripts.Render("~/Scripts/Tables/Data")
+
+    @Scripts.Render("~/AdminLTE/plugins/jquery-ui/js")
+    <script>
+        $.widget.bridge('uibutton', $.ui.button);
+    </script>
+
+    @Scripts.Render("~/AdminLTE/plugins/bootstrap-wysihtml5/js")
+    @Scripts.Render("~/AdminLTE/plugins/sparkline/js")
+    @Scripts.Render("~/AdminLTE/plugins/jvectormap/js")
+    @Scripts.Render("~/AdminLTE/plugins/daterangepicker/js")
+    @Scripts.Render("~/AdminLTE/plugins/knob/js")
+    @Scripts.Render("~/AdminLTE/plugins/raphael/js")
+    @Scripts.Render("~/AdminLTE/plugins/morris/js")
+    @Scripts.Render("~/AdminLTE/plugins/datepicker/js")
+    @Scripts.Render("~/Scripts/Home/DashboardV1")
+
+    <script type="text/javascript" src="~/Scripts/Entrada/GetEntradas.js"></script>
+
+    <script type="text/javascript" src="~/Scripts/common/utilities.js"></script>
+    <script>
+    $('[data-toggle=tooltip]').tooltip();
+     var actionInitialConf = 'entity-url="@Url.Action("EntradaDetails", "Entrada")" ';
+
+    $("#entradas").DataTable({
+    processing: true,
+    serverSide: true,
+    bFilter: true,
+    orderMulti: false,
+    bAutoWidth: true,
+    sAjaxSource: '@this.Url.Action("GetEntrada")',
+    sAjaxDataProp: '',// this links to your controller method from Step 3
+    columns:
+    [ // You can configure, per property, if it should be sortable, etc. Make sure the names equal the names you gave it in step 1.
+
+            { data: 'Id' },
+            { data: 'Titulo' },
+            { data: 'Autor' },
+            {
+                data: null,
+                bSortable: false,
+                sDefaultContent: "Acciones",
+                mRender: function (data, type, full) {
+
+                    console.log(data)
+                    actionInitialConfPlusID = actionInitialConf + ' data-Id="' + full.Id + '"';
+
+                       var opciones = {
+                            "tipo": 'link',
+                            "acciones":
+                            [
+                                {
+                                    "url": '#',
+                                    "attr": actionInitialConfPlusID + ' data-viewAction="@ViewActionEnum.Edit.ToString()"',
+
+                                    "texto": 'Editar'
+                                },
+                                {
+                                    "url": '#',
+                                    @*"attr": actionInitialConfPlusID + ' data-viewAction="@ViewActionEnum.Detail.ToString()"',*@
+                                    "attr": actionInitialConfPlusID + ' data-viewAction="@ViewActionEnum.Delete.ToString()"',
+                                    "texto": 'Eliminar'
+                                },
+                                {
+
+                                    "url": '#',
+                                    "attr": actionInitialConfPlusID + ' data-viewAction="@ViewActionEnum.Detail.ToString()"',
+
+                                    "texto": 'Detalle'
+                                }
+
+                            ]
+                        };
+                        return renderizarAcciones("Acciones", opciones);
+
+                }
+
+            }
+    ],
+                initComplete: function () {
+                    var opciones = {
+                        "tipo": 'link',
+                        "url": '#',
+                        "acciones": [{
+                            "attr": actionInitialConf + ' data-Id="0" data-viewAction="@ViewActionEnum.Create.ToString()" ',
+                            "texto": 'Crear'
+                        }]
+                    };
+                    $(".toolbar").html(renderAction(opciones));//Add button on top of datatable
+
+                }
+
+    });
+
+    </script>
+}
+
+
+

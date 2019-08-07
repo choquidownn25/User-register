@@ -1,0 +1,12 @@
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.AccesoDatos\bin\Debug\Capa.AccesoDatos.dll.config
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.AccesoDatos\bin\Debug\Capa.AccesoDatos.dll
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.AccesoDatos\bin\Debug\Capa.AccesoDatos.pdb
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.AccesoDatos\bin\Debug\EntityFramework.dll
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.AccesoDatos\bin\Debug\EntityFramework.xml
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.AccesoDatos\obj\Debug\Capa.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.AccesoDatos\obj\Debug\Capa.AccesoDatos.csproj.CopyComplete
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.AccesoDatos\obj\Debug\Capa.AccesoDatos.dll
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.AccesoDatos\obj\Debug\Capa.AccesoDatos.pdb
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.AccesoDatos\obj\Debug\Capa.AccesoDatos.csprojAssemblyReference.cache

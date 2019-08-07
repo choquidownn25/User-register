@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RAEGlobonetModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ContenidoEntradas">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdEntrada" Type="int" Nullable="false" />
+    <Property Name="Contenido" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Entrada">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Titulo" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Autor" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_ContenidoEntradas_Entrada">
+    <End Role="Entrada" Type="Self.Entrada" Multiplicity="1" />
+    <End Role="ContenidoEntradas" Type="Self.ContenidoEntradas" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Entrada">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ContenidoEntradas">
+        <PropertyRef Name="IdEntrada" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="RAEGlobonetModelStoreContainer">
+    <EntitySet Name="ContenidoEntradas" EntityType="Self.ContenidoEntradas" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Entrada" EntityType="Self.Entrada" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_ContenidoEntradas_Entrada" Association="Self.FK_ContenidoEntradas_Entrada">
+      <End Role="Entrada" EntitySet="Entrada" />
+      <End Role="ContenidoEntradas" EntitySet="ContenidoEntradas" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

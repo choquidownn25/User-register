@@ -1,0 +1,130 @@
+﻿@using Capa.Presentacion.Extensions
+@{
+    ViewBag.Title = "Prueba técnica";
+}
+
+
+
+<div class="row">
+    <div class="col-xs-12">
+
+        <div class="box">
+            <div class="box-header">
+                <h3 class="box-title">Entrada</h3>
+                <div class="box-footer">
+                    <button type="submit" class="btn btn-primary" onclick="location.href='@Url.Action("EntradaDetail", "Entrada")'">Agregar</button>
+                </div>
+            </div>
+            <div class="box-body">
+                <table id="entradas" class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>Codigo</th>
+                            <th>Titulo</th>
+                            <th>Autor</th>
+                            <th>Acciones</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                    <tfoot>
+
+
+                    </tfoot>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+
+    @Scripts.Render("~/AdminLTE/plugins/datatables/js")
+    @Scripts.Render("~/Scripts/Tables/Data")
+    <script type="text/javascript" src="~/Scripts/common/utilities.js"></script>
+    <script>
+    $('[data-toggle=tooltip]').tooltip();
+     var actionInitialConf = 'entity-url="@Url.Action("EntradaDetails", "Entrada")" ';
+
+    $("#entradas").DataTable({
+    processing: true,
+    serverSide: true,
+    bFilter: true,
+    orderMulti: false,
+    bAutoWidth: true,
+    sAjaxSource: '@this.Url.Action("GetEntrada")',
+    sAjaxDataProp: '',// this links to your controller method from Step 3
+    columns:
+    [ // You can configure, per property, if it should be sortable, etc. Make sure the names equal the names you gave it in step 1.
+
+            { data: 'Id' },
+            { data: 'Titulo' },
+            { data: 'Autor' },
+            {
+                data: null,
+                bSortable: false,
+                sDefaultContent: "Acciones",
+                mRender: function (data, type, full) {
+
+                    console.log(data)
+                    actionInitialConfPlusID = actionInitialConf + ' data-Id="' + full.Id + '"';
+
+                       var opciones = {
+                            "tipo": 'link',
+                            "acciones":
+                            [
+                                {
+                                    "url": '#',
+                                    "attr": actionInitialConfPlusID + ' data-viewAction="@ViewActionEnum.Edit.ToString()"',
+
+                                    "texto": 'Editar'
+                                },
+                                {
+                                    "url": '#',
+                                    @*"attr": actionInitialConfPlusID + ' data-viewAction="@ViewActionEnum.Detail.ToString()"',*@
+                                    "attr": actionInitialConfPlusID + ' data-viewAction="@ViewActionEnum.Delete.ToString()"',
+                                    "texto": 'Eliminar'
+                                },
+                                {
+
+                                    "url": '#',
+                                    "attr": actionInitialConfPlusID + ' data-viewAction="@ViewActionEnum.Detail.ToString()"',
+
+                                    "texto": 'Detalle'
+                                }
+
+                            ]
+                        };
+                        return renderizarAcciones("Acciones", opciones);
+
+                }
+
+            }
+    ],
+                initComplete: function () {
+                    var opciones = {
+                        "tipo": 'link',
+                        "url": '#',
+                        "acciones": [{
+                            "attr": actionInitialConf + ' data-Id="0" data-viewAction="@ViewActionEnum.Create.ToString()" ',
+                            "texto": 'Crear'
+                        }]
+                    };
+                    $(".toolbar").html(renderAction(opciones));//Add button on top of datatable
+
+                }
+
+    });
+
+    </script>
+}
+
+
+
+
+
+
+
+
+
+

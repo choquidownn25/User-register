@@ -1,0 +1,6 @@
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.DominioDatos\bin\Debug\Capa.DominioDatos.dll
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.DominioDatos\bin\Debug\Capa.DominioDatos.pdb
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.DominioDatos\obj\Debug\Capa.DominioDatos.csproj.CoreCompileInputs.cache
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.DominioDatos\obj\Debug\Capa.DominioDatos.dll
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.DominioDatos\obj\Debug\Capa.DominioDatos.pdb
+C:\globo.net\Codigo .net\Prueba tecnica\Capa.DominioDatos\obj\Debug\Capa.DominioDatos.csprojAssemblyReference.cache

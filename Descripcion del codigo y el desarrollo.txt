@@ -1,0 +1,27 @@
+Nombre
+Jose Antonio Sarria
+Cedula 6098369
+Movil 310721 71 66
+
+Descripción
+Se crea un registro y un usuario
+usuario tranceelectronico@gmail.com
+password Choquidownn25@
+
+BD SqlServer 2017
+
+IDE 2017
+
+Entorno de desarrollo 
+Frameworks MVC Asp.net 4.6
+Patron de diseño mvc y ncapas
+
+Views
+Html5 JavaScript y libreria JQuery
+
+Servicios Distribuidos 
+MVC Controllers (MVC) ó
+
+Acceso a Datos
+Entity Framework 
+
