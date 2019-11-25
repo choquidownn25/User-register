@@ -1,2 +1,2 @@
 # User-register
-Reistros de usuarios, realizados con asp net
+Registros de usuarios, realizados con asp net
